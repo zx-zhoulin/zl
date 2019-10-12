@@ -1,0 +1,14 @@
+XTF FtnInfo
+FileCookieID: 1
+FileName: 李智辉出差计划.docx
+FileSize: 11459
+FtnUrl: /ftn_handler/530c6c15970908da59db48b11aa16259b15acfe369bf165522cca828c48a5de1a2d74ae233d9f8d42c9fc2abc8c385b7a1522e12893947d12967652ed91ee44b
+FtnCookie:FTN5K=71b9c3c1
+FtnIP: 14.18.174.157
+FtnPort:80
+
+
+96a
+FtnIP: 14.17.29.39
+FtnPort:80
+
